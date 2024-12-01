@@ -19,6 +19,7 @@ M = E − N + 2P
 
 M = 18 - 16 + (2.1)
 M = 2 + 2
+
 M = 4
 
 ##  3 -  Caminhos Possíveis
